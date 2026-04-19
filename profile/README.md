@@ -12,7 +12,7 @@ From hands-on sessions to real-world challenges, we help members build practical
 	<a href="https://www.instagram.com/ieeetemsvit/">
 		<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 	</a>
-	<a href="https://www.linkedin.com/company/ieee-tems-vit/">
+	<a href="https://www.linkedin.com/company/ieee-tems/">
 		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 </p>
