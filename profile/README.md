@@ -1,12 +1,22 @@
-## Hi there 👋
+<h2 align="center">Technology & Engineering Management Society</h2>
 
-<!--
+<p align="center">
+	<img src="assests/logo.png" alt="IEEE TEMS VIT Logo" width="220" />
+</p>
 
-**Here are some ideas to get you started:**
+At IEEE TEMS VIT, we spark curiosity and inspire change.
+We create a space where ideas become impactful projects through workshops, seminars, and technology competitions.
+From hands-on sessions to real-world challenges, we help members build practical skills, collaborate across domains, and stay ready for the fast-changing world of technology and innovation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+	<a href="https://www.instagram.com/ieeetemsvit/">
+		<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	<a href="https://www.linkedin.com/company/ieee-tems-vit/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+</p>
+
+---
+
+Visit [ieeetemsvit.in](https://ieeetemsvit.in) to learn more.
