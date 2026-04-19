@@ -1,7 +1,7 @@
 <h2 align="center">Technology & Engineering Management Society</h2>
 
 <p align="center">
-	<img src="assests/logo.png" alt="IEEE TEMS VIT Logo" width="220" />
+	<img src="../assests/logo.png" alt="IEEE TEMS VIT Logo" width="220" />
 </p>
 
 At IEEE TEMS VIT, we spark curiosity and inspire change.
